@@ -1,0 +1,13 @@
+# Práce v OS unixového typu - Ubuntu či FreeBSD
+- otevři si už nainstalovaný OS unixového typu či popiš vzdálené připojení k počítači unixového typu
+- popiš základní vlastnosti OS unixového typu, jeho přednosti, zápory a vhodné užití
+- přejdi do příkazového řádku, předveď pohyb v adresářové struktuře, vysvětli základní filosofii souborového systému v OS unixového typu
+- vytvoř soubor „test“ - příkaz "cat > [filename]"
+- zapiš do něj svoje jméno a příjmení
+- vypiš obsah souboru test - "cat [filename]"
+- na tomto souboru ukaž, jak jsou nastavena souborová práva (popiš význam jednotlivých znaků) "ls -l"
+- změň nastavení práv na 777 a popiš změnu příslušných práv "chmod 777 (a+r+w+x) file"
+- ukaž práci s příkazy ping a ifconfig
+-  zjisti IP adresu serveru seznam.cz "nslookup nebo ping"
+-  popiš vzdálený terminálový přístup k systému unixového typu (ssh)
+-  odhlaš se ze systému a systém vhodným způsobem ukonči
