@@ -1,4 +1,4 @@
-# 14. Internetové technologie
+# 15. Internetové technologie
 
 **internet** - globální počítačová síť skládající se z propojených sítí používajících TCP/IP protokol, poskytuje informace a možnosti ke komunikaci
 **www** - world wide web; informační systém dostupný přes internet, usnadňuje práci s informacemi pomocí hyperlinks, webových prohlížečů atd.

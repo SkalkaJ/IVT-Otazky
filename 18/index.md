@@ -1,4 +1,4 @@
-# 17. Prezentace, prezentační SW
+# 18. Prezentační software
 
 ### a) Prezentační software
 **Prezentační program** = počítačový program, který umožňuje vytvořit prezentaci, tj. sérii stránek neboli snímků, s přehledně zobrazenými informacemi.

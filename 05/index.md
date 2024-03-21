@@ -1,4 +1,4 @@
-# 5. Práce v OS unixového typu - Ubuntu či FreeBSD
+# 5. Práce s OS unixového typu
 - přejdi do příkazového řádku, předveď pohyb v adresářové struktuře, vysvětli základní filosofii souborového systému v OS unixového typu
 - vytvoř soubor „test“ - příkaz "cat > \[filename]"
 - zapiš do něj svoje jméno a příjmení

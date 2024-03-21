@@ -1,4 +1,4 @@
-# 20. Vektorový grafický editor
+# 21. Vektorový grafický editor
 
 ### Teoretická část
 1. popište k čemu slouží vektorový grafický editor a jak se liší od bitmapového grafického editoru

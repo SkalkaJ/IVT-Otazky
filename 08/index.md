@@ -1,4 +1,5 @@
-# 9. Algoritmizace
+# 8. Algoritmizace
+
 *Co je to algoritmus:*
 **Algoritmus** je přesný návod či postup, kterým lze vyřešit daný typ úlohy.
 

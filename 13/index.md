@@ -1,4 +1,4 @@
-# 13. Historie internetu
+# 13. Internet
 
 **Internet** = celosvětový systém navzájem propojených počítačových sítí, které propojují takzvané síťové uzly, uzlem pak může být počítač nebo zařízení se speciální síťovou funkcí, například router
 

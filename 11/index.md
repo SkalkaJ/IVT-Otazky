@@ -1,4 +1,4 @@
-# 11. OOP Programování
+# 11. Objektově orientované a událostmi řízené programování
 
 = programovací paradigma, kde kód je přidružen k datům (metody jsou zapouzdřeny v objektech), což umožňuje snadnější přenos kódu mezi různými projekty (abstrakce a zapouzdření)
 

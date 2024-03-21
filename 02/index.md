@@ -1,4 +1,4 @@
-# 2. Historie výpočetní techniky a druhy počítačů
+# 2. Vývoj PC
 
 ### a) vývojové etapy počítačů
 

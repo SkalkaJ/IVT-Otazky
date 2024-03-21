@@ -1,4 +1,4 @@
-# 18. Moderní trendy v IT
+# 19. Moderní trendy v IT
 
 ### a) Systémy mobilní komunikace
 **Systém komunikace GSM**

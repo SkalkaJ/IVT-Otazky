@@ -1,4 +1,4 @@
-# 4. OS Unixového typu
+# 4. Instalace OS unixového typu
 
 = víceuživatelský multitasking OS s modulovým designem (= dělí systém do menších částí, "modulů", mohou být tvořeny, vyměňovány a upravovány)
 - unixová filozofie = autor Ken Thompson, prosazuje minimalistický a modulový software development

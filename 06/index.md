@@ -1,4 +1,4 @@
-# 6. Stavba PC a konfigurace OS
+# 6. Stavba PC, instalace a konfigurace OS
 
 ### a) složení PC
 

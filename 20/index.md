@@ -1,4 +1,4 @@
-# 19. Bitmapový grafický editor
+# 20. Bitmapový grafický editor
 
 1.  popište k čemu slouží bitmapový grafický editor
 	- nebo také rastrový grafický editor je program umožňující pomocí GUI vytvářet a upravovat soubory s rastrovou grafikou (= grafika, kdy je obrázek popsán pomocí jednotlivých barevných bodů - pixelů)

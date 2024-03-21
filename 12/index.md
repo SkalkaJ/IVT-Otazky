@@ -1,4 +1,4 @@
-# 12. Počítačové síťě
+# 12. Počítačové sítě
 
 ### 1) Hlavní druhy sítí
 #### Podle velikosti
