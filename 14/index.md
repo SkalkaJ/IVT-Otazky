@@ -1,3 +1,5 @@
 # 14. Bezpečné digitální prostředí
 
 Stub
+
+Vyžadovaný obsah: digitální identita a její vazby s fyzickou identitou – datová schránka, elektronický podpis, token; neověřená a falešná digitální identita; nevědomá digitální stopa – logy, metadata, cookies, sledování uživatele a narušení soukromí při využívání internetu; vědomá digitální stopa – virtuální osobnosti a jejich cílené vytváření; fungování a algoritmy sociálních sítí
