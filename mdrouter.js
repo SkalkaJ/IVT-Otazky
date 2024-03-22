@@ -25,10 +25,8 @@ function getCurrentUrl() {
 }
 
 function goto(where) {
-    let current = getCurrentUrl();
-    let final = new URL(where, current);
-    fetchMarkdown(final.toString())
-    window.location.hash = encodeURIComponent(final.pathname);
+    fetchMarkdown(where)
+    window.location.hash = encodeURIComponent(where);
 }
 
 async function fetchMarkdown(address) {
