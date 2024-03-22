@@ -7,3 +7,7 @@
 code {
     font-family: "Fira Code", monospace;
 }
+
+img {
+    max-width: 100%;
+}
