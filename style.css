@@ -11,3 +11,23 @@ code {
 img {
     max-width: 100%;
 }
+
+table,
+th,
+td {
+    border: solid 1px black;
+    border-spacing: 0;
+}
+
+table {
+    margin-bottom: 1em;
+}
+
+th,
+td {
+    padding: 0.5em;
+}
+
+thead {
+    background-color: lightgray;
+}
