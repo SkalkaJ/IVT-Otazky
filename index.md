@@ -7,6 +7,8 @@
 [3. Operační systémy](03.md)  
 [4. Instalace OS unixového typu](04.md)  
 [5. Práce s OS unixového typu](05.md)  
+[21. Vektorový grafický editor](21.md)  
+[22. Práce s prostorem](22.md)  
 
 ## Možná zastaralé otázky
 [2. Vývoj PC](02.md)  
@@ -25,8 +27,6 @@
 [18. Prezentační software](18.md)  
 [19. Moderní trendy v IT](19.md)  
 [20. Bitmapový grafický editor](20.md)  
-[21. Vektorový grafický editor](21.md)  
-[22. Práce s prostorem](22.md)  
 [23. Zpracování textu textovými procesory](23.md)  
 [24. Typografický systém TeX](24.md)  
 [25. Tabulkové kalkulátory](25.md)  
