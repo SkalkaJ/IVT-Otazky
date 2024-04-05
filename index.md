@@ -7,6 +7,7 @@
 [3. Operační systémy](03.md)  
 [4. Instalace OS unixového typu](04.md)  
 [5. Práce s OS unixového typu](05.md)  
+[12. Počítačové sítě](12.md)  
 [21. Vektorový grafický editor](21.md)  
 [22. Práce s prostorem](22.md)  
 
@@ -18,7 +19,6 @@
 [9. Počítačové jazyky](09.md)  
 [10. Strukturované programování](10.md)  
 [11. Objektově orientované a událostmi řízené programování](11.md)  
-[12. Počítačové sítě](12.md)  
 [13. Internet](13.md)  
 [14. Bezpečné digitální prostředí](14.md)  
 [15. Internetové technologie](15.md)  
