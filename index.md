@@ -1,4 +1,4 @@
-# Gymnázium Jírovcova IVT Maturitní otázky 2024
+# Gymnázium Jírovcova IVT Maturitní otázky 2023/24
 
 ---
 
@@ -10,10 +10,11 @@
 [9. Počítačové jazyky](09.md)  
 [11. Objektově orientované a událostmi řízené programování](11.md)  
 [12. Počítačové sítě](12.md)  
+[17. Databázové systémy](17.md)  
 [19. Moderní trendy v IT](19.md)  
 [21. Vektorový grafický editor](21.md)  
 [22. Práce s prostorem](22.md)  
-[23. Zpracování textu textovými procesory](23.md) 
+[23. Zpracování textu textovými procesory](23.md)  
 [24. Typografický systém TeX](24.md)  
 
 ## Možná zastaralé otázky
@@ -26,7 +27,6 @@
 [14. Bezpečné digitální prostředí](14.md)  
 [15. Internetové technologie](15.md)  
 [16. Informační systémy](16.md)  
-[17. Databázové systémy](17.md)  
 [18. Prezentační software](18.md)  
 [20. Bitmapový grafický editor](20.md)  
 [25. Tabulkové kalkulátory](25.md)  
