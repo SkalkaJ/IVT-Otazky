@@ -1,1 +1,1 @@
-# [Zpracované maturitní otázky z IVT pro Gymnázium Jírovcova](https://sykdan.github.io/GMYJI-IVT-Otazky/#index.md)
+# [Zpracované maturitní otázky z IVT pro Gymnázium Jírovcova](https://sykdan.github.io/GYMJI-IVT-Otazky/#index.md)
