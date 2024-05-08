@@ -16,6 +16,7 @@
 [22. Práce s prostorem](22.md)  
 [23. Zpracování textu textovými procesory](23.md)  
 [24. Typografický systém TeX](24.md)  
+[25. Tabulkové kalkulátory](25.md)  
 
 ## Možná zastaralé otázky
 [2. Vývoj PC](02.md)  
@@ -29,4 +30,3 @@
 [16. Informační systémy](16.md)  
 [18. Prezentační software](18.md)  
 [20. Bitmapový grafický editor](20.md)  
-[25. Tabulkové kalkulátory](25.md)  
