@@ -8,8 +8,9 @@
 [4. Instalace OS unixového typu](04.md)  
 [5. Práce s OS unixového typu](05.md)  
 [7. HW počítače](07.md)  
-[8. Algoritmizace](08.md)
+[8. Algoritmizace](08.md)  
 [9. Počítačové jazyky](09.md)  
+[10. Strukturované programování](10.md)  
 [11. Objektově orientované a událostmi řízené programování](11.md)  
 [12. Počítačové sítě](12.md)  
 [15. Internetové technologie](15.md)  
@@ -25,7 +26,6 @@
 ## Možná zastaralé otázky
 [2. Vývoj PC](02.md)  
 [6. Stavba PC, instalace a konfigurace OS](06.md)  
-[10. Strukturované programování](10.md)  
 [13. Internet](13.md)  
 [14. Bezpečné digitální prostředí](14.md)  
 [16. Informační systémy](16.md)  
