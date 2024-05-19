@@ -1,7 +1,3 @@
-# Gymnázium Jírovcova IVT Maturitní otázky 2023/24
-
----
-
 ## Přepracované otázky
 [1. Základní pojmy informatiky](01.md)  
 [3. Operační systémy](03.md)  
