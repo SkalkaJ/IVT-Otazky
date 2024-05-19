@@ -14,7 +14,9 @@
 [10. Strukturované programování](10.md)  
 [11. Objektově orientované a událostmi řízené programování](11.md)  
 [12. Počítačové sítě](12.md)  
+[14. Bezpečné digitální prostředí](14.md)  
 [15. Internetové technologie](15.md)  
+[16. Informační systémy](16.md)  
 [17. Databázové systémy](17.md)  
 [18. Prezentační software](18.md)  
 [19. Moderní trendy v IT](19.md)  
@@ -28,5 +30,3 @@
 ## Možná zastaralé otázky
 [2. Vývoj PC](02.md)  
 [13. Internet](13.md)  
-[14. Bezpečné digitální prostředí](14.md)  
-[16. Informační systémy](16.md)  
