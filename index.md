@@ -1,5 +1,6 @@
 ## Přepracované otázky
 [1. Základní pojmy informatiky](01.md)  
+[2. Vývoj PC](02.md)  
 [3. Operační systémy](03.md)  
 [4. Instalace OS unixového typu](04.md)  
 [5. Práce s OS unixového typu](05.md)  
@@ -24,5 +25,4 @@
 [25. Tabulkové kalkulátory](25.md)  
 
 ## Možná zastaralé otázky
-[2. Vývoj PC](02.md)  
 [13. Internet](13.md)  
