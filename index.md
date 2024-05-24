@@ -1,4 +1,3 @@
-## Přepracované otázky
 [1. Základní pojmy informatiky](01.md)  
 [2. Vývoj PC](02.md)  
 [3. Operační systémy](03.md)  
@@ -10,7 +9,8 @@
 [9. Počítačové jazyky](09.md)  
 [10. Strukturované programování](10.md)  
 [11. Objektově orientované a událostmi řízené programování](11.md)  
-[12. Počítačové sítě](12.md)  
+[12. Počítačové sítě](12.md)
+[13. Internet](13.md)  
 [14. Bezpečné digitální prostředí](14.md)  
 [15. Internetové technologie](15.md)  
 [16. Informační systémy](16.md)  
@@ -23,6 +23,3 @@
 [23. Zpracování textu textovými procesory](23.md)  
 [24. Typografický systém TeX](24.md)  
 [25. Tabulkové kalkulátory](25.md)  
-
-## Možná zastaralé otázky
-[13. Internet](13.md)  
