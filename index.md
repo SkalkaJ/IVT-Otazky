@@ -9,7 +9,7 @@
 [9. Počítačové jazyky](09/09.md)  
 [10. Strukturované programování](10/10.md)  
 [11. Objektově orientované a událostmi řízené programování](11/11.md)  
-[12. Počítačové sítě](12/12.md)
+[12. Počítačové sítě](12/12.md)  
 [13. Internet](13/13.md)  
 [14. Bezpečné digitální prostředí](14/14.md)  
 [15. Internetové technologie](15/15.md)  
